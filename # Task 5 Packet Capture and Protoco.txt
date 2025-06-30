@@ -1,0 +1,29 @@
+# Task 5: Packet Capture and Protocol Analysis
+
+## 🔧 Tool Used:
+- Wireshark
+
+## 📦 Protocols Identified:
+1. **DNS (Domain Name System)**
+   - Resolves domain names to IP addresses.
+   - Used when visiting any website (e.g., google.com).
+
+2. **TCP (Transmission Control Protocol)**
+   - Ensures reliable communication.
+   - Observed during HTTP and HTTPS traffic.
+
+3. **HTTP (HyperText Transfer Protocol)**
+   - Used to transfer web pages from server to browser.
+   - Captured while browsing sites during the session.
+
+## 📝 Observations:
+- DNS queries were initiated before accessing each website.
+- TCP connections showed three-way handshake patterns.
+- HTTP requests revealed GET and POST methods with visible headers.
+
+## 📁 Files Submitted:
+- `task5_capture.pcap`
+- `report.md`
+
+## 📅 Date:
+June 30, 2025
