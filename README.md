@@ -4,8 +4,8 @@
 Capture and analyze live network traffic using Wireshark.
 
 ## 📁 Contents:
-- `task5_capture.pcap` — Packet capture file
-- `report.md` — Summary of analyzed protocols
+- `networkscan.pcap` — Packet capture file
+- `# 5 packet capture and protocol.md` — Summary of analyzed protocols
 
 ## 🛠 Tools Used:
 - Wireshark (v4.x)
